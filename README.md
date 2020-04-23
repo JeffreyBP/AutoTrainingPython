@@ -1,1 +1,2 @@
 # AutoTrainingPython
+EJERCICO DE PYTHON.
